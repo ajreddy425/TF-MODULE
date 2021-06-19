@@ -16,4 +16,4 @@ variable"ec2_count"{
     default="1"
 }
 
-variable "subnet_id" {}
+# variable "subnet_id" {}
